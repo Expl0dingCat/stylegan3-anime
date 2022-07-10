@@ -1,5 +1,5 @@
 # StyleGAN3-Anime
-A StyleGAN3 model trained on the danbooru2019 portraits dataset using [vision-aided GAN](https://github.com/nupurkmr9/vision-aided-gan). Sponsored by Runpod
+A StyleGAN3 model trained on the danbooru2019 portraits dataset using [vision-aided GAN](https://github.com/nupurkmr9/vision-aided-gan). Sponsored by [RunPod](https://runpod.io/)
 
 I trained using vanilla StyleGAN3 up to 900 kimg, at which point I switched to vision-aided GAN for the remainder of training.
 
@@ -10,7 +10,7 @@ I trained using vanilla StyleGAN3 up to 900 kimg, at which point I switched to v
 As I trained using vision-aided GAN, you cannot use this model with vanilla StyleGAN3 without some modifications, I made these modifications already [here](https://github.com/Expl0dingCat/stylegan3-modified). You could also use [vision-aided GAN's StyleGAN3](https://github.com/nupurkmr9/vision-aided-gan/tree/main/stylegan3)
 
 ## Training notebook
-Used with RunPod's Pytorch pod. [Download](https://drive.google.com/file/d/1Rf2ASfuxRwW5rKWt2da6jdWViMQC8-ys/view)
+Used with [RunPod](https://runpod.io/)'s Pytorch pod. [Download](https://drive.google.com/file/d/1Rf2ASfuxRwW5rKWt2da6jdWViMQC8-ys/view)
 
 ## Training configuration
 ### StyleGAN3
